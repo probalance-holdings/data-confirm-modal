@@ -43,7 +43,7 @@
     cancelClass: 'btn-default',
     fade: true,
     verifyClass: '',
-    elements: ['a[data-confirm]', 'button[data-confirm]', 'input[type=submit][data-confirm]'],
+    elements: ['a[data-confirm]', 'button[data-confirm]', 'input[type=image][data-confirm]', 'input[type=submit][data-confirm]'],
     focus: 'commit',
     zIndex: 1050,
     modalClass: false
